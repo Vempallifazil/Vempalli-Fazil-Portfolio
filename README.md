@@ -2,6 +2,8 @@
 
 A cinematic portfolio for my work as a Test Engineer at Infosys in Chennai. Choose a viewer profile to explore my experience, projects and skills in a different order.
 
+[Open the live portfolio](https://vempallifazil.github.io/Vempalli-Fazil-Portfolio/)
+
 ![Portfolio cover](public/assets/og-image.jpg)
 
 ## Explore the series
@@ -15,7 +17,7 @@ LearnMoreApp is my Infosys training capstone. It connects Angular screens to an 
 
 ## Run locally
 
-With Node.js 22 installed, run `npm ci` followed by `npm run dev`. To launch the included build, run `node launch.mjs` or double-click `Launch-Windows.cmd`.
+With Node.js 22 installed, run `npm ci` followed by `npm run dev`. To open a production preview, run `npm run build`, then run `node launch.mjs` or double-click `Launch-Windows.cmd`.
 
 ## Customize and publish
 
